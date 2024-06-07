@@ -3,8 +3,3 @@ git add
 git commit
 git branch
 git checkout
-<<<<<<< HEAD
-git merge
-=======
-git mergegit
->>>>>>> style
