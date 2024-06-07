@@ -2,9 +2,5 @@ Learning git commands
 git add
 git commit
 git branch
-<<<<<<< HEAD
-git checkout
-=======
 git checkout
 git mergegit
->>>>>>> style
