@@ -1,6 +1,1 @@
-Learning git commands
-git add
-git commit
-git branch
-git checkout
-git mergegit
+Change 1
